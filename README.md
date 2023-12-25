@@ -2,7 +2,9 @@
 
 ⚡ Medical doctor and technology enthusiast ⚡
 
+
 🔭 I’m currently working on learning the scope of what Health Informatics entails through a MSc
+
 🌱 I’m currently learning about Artificial Intelligence applications in the healthcare sector
 
 <!--
